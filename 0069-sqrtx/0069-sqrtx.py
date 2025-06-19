@@ -1,11 +1,11 @@
+# Better Version:
 class Solution:
     def mySqrt(self, x: int) -> int:
-        # Special cases: sqrt(0) = 0, sqrt(1) = 1
+        
         if x < 2:
-            return x
+            return x # Special cases: sqrt(0) = 0, sqrt(1) = 1
 
-        # Binary search in range [1, x // 2]
-        left, right = 1, x // 2
+        left, right = 1, x // 2 # Binary search in range [1, x // 2]
 
         while left <= right:
             mid = (left + right) // 2
@@ -17,7 +17,18 @@ class Solution:
                 left = mid + 1
             else:
                 right = mid - 1
+                
+        return right
 
-        # Loop ends when left > right
-        # → right is the largest number where right * right <= x
+# Original Version:
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        left, right = 0, x
+        while left <= right:
+            mid = (left + right)//2
+            square = mid * mid
+            if square > x:
+                right = mid - 1
+            else:
+                left = mid + 1
         return right
