@@ -14,9 +14,11 @@ class MyLinkedList:
         if index < 0 or index >= self.size:
             return -1
         curr = self.dummy.next
-        for _ in range(index):
+        for _ in range(index): 
             curr = curr.next
         return curr.val
+# Linked lists do not support direct access (like arrays),
+# so we must traverse node-by-node to reach the desired index.
 
     def addAtHead(self, val: int) -> None:
         self.addAtIndex(0, val)
@@ -44,11 +46,6 @@ class MyLinkedList:
         prev.next = prev.next.next
         self.size -= 1
 
-
-# Your MyLinkedList object will be instantiated and called as such:
-# obj = MyLinkedList()
-# param_1 = obj.get(index)
-# obj.addAtHead(val)
-# obj.addAtTail(val)
-# obj.addAtIndex(index,val)
-# obj.deleteAtIndex(index)
+# Summary:
+# Insert: index ∈ [0, size]
+# Delete: index ∈ [0, size - 1]
