@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0838-design-linked-list) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0838-design-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
