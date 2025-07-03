@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
