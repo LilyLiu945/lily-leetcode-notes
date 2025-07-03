@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0059-spiral-matrix-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0792-binary-search) |
 ## Math
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -97,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
