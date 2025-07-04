@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
