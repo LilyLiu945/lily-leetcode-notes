@@ -1,3 +1,4 @@
+# Almost the same with 0242 but easier
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         freq = {}
