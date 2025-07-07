@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0027-remove-element) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
