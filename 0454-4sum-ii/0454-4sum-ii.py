@@ -1,20 +1,13 @@
 class Solution:
     def fourSumCount(self, nums1: List[int], nums2: List[int], nums3: List[int], nums4: List[int]) -> int:
-        def get_sum(numsx: List[int],numsy: List[int]) -> dict:
-            freq = {}
-            for x in numsx:
-                for y in numsy:
-                    num_sum = x + y
-                    freq[num_sum] = freq.get(num_sum, 0) + 1
-            return freq
+        hashmap = {}
+        for n1 in nums1:
+            for n2 in nums2:
+                hashmap[n1+n2] = hashmap.get(n1+n2, 0) + 1
 
-        freq1 = get_sum(nums1, nums2)
-        freq2 = get_sum(nums3, nums4)
-        number = 0
-
-        for num_sum1 in freq1:
-            for num_sum2 in freq2:
-                if num_sum1 + num_sum2 == 0:
-                    number = number + freq1[num_sum1] * freq2[num_sum2]
+        count = 0
+        for n3 in nums3:
+            for n4 in nums4:
+                count += hashmap.get((-n3-n4), 0)
         
-        return number
+        return count
