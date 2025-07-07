@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0383-ransom-note) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -108,5 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0454-4sum-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
