@@ -5,10 +5,8 @@ class Solution:
             freq[char] = freq.get(char, 0) + 1
 
         for char in ransomNote:
-            if char not in freq:
+            if char not in freq or freq[char] == 0:
                 return False
             freq[char] -= 1
-            if freq[char] < 0:
-                return False
 
         return True
