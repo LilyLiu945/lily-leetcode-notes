@@ -4,7 +4,7 @@ class Solution:
         if not needle:
             return 0
 
-        def build_prefix_table(pattern):
+        def build_next(pattern):
             n = len(pattern)
             next = [0] * n
             j = 0  # length of the previous longest prefix suffix
@@ -16,7 +16,7 @@ class Solution:
                 next[i] = j
             return next
 
-        next = build_prefix_table(needle)
+        next = build_next(needle)
 
         # find match
         j = 0  # pointer of needle 
