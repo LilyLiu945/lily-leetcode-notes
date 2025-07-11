@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0838-design-linked-list) |
 ## Hash Table
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0459-repeated-substring-pattern) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
