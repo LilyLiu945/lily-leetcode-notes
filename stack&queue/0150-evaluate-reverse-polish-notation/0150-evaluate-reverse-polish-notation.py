@@ -3,7 +3,7 @@ class Solution:
         stack = []
         for token in tokens:
             if token not in '+-*/':
-                stack.append(int(token))
+                stack.append(int(token)) # Use "int()" so that it won't be saved as string!
             else:
                 b = stack.pop()
                 a = stack.pop()
@@ -14,5 +14,5 @@ class Solution:
                 elif token == '*':
                     stack.append(a * b)
                 elif token == '/':
-                    stack.append(int(a / b))
+                    stack.append(int(a / b)) # The division between two integers always truncates toward zero.
         return stack[0]
