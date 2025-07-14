@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0059-spiral-matrix-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
