@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -184,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
