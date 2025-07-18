@@ -10,7 +10,7 @@ class Solution:
         def dfs(node):
             if not node:
                 return
-            res.append(node.val)
+            res.append(node.val) # Preorder: root -> left -> right
             dfs(node.left)
             dfs(node.right)
         dfs(root)
