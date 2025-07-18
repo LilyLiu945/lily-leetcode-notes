@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0239-sliding-window-maximum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
