@@ -12,6 +12,7 @@ class Solution:
                 return
             dfs(node.left)
             dfs(node.right)
-            res.append(node.val)
+            res.append(node.val) # Postorder: visit current node after children
         dfs(root)
         return res
+# Postorder: left -> right -> root
