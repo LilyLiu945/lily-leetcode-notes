@@ -13,6 +13,7 @@ class Solution:
         while stack:
             node = stack.pop()
             res.append(node.val)
+            # First right, then left, ensuring the left child is popped first
             if node.right:
                 stack.append(node.right)
             if node.left:
