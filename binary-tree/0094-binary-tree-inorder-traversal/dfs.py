@@ -11,7 +11,8 @@ class Solution:
             if not node:
                 return
             dfs(node.left)
-            res.append(node.val)
+            res.append(node.val) # Inorder: visit current node between left and right
             dfs(node.right)
         dfs(root)
         return res
+# Inorder: left -> root -> right
