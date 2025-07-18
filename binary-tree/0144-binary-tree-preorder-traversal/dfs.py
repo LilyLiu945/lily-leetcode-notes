@@ -10,8 +10,9 @@ class Solution:
         def dfs(node):
             if not node:
                 return
-            res.append(node.val) # Preorder: root -> left -> right
+            res.append(node.val) # Preorder: visit current node first
             dfs(node.left)
             dfs(node.right)
         dfs(root)
         return res
+# Preorder: root -> left -> right
