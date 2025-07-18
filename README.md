@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0059-spiral-matrix-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
@@ -189,7 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
