@@ -18,3 +18,5 @@ class Solution:
             if node.right:
                 stack.append(node.right)
         return res[::-1]
+# Perform reversed preorder traversal: root → right → left
+# Reverse the final result to get postorder: left → right → root
