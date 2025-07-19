@@ -5,20 +5,26 @@
 #         self.left = left
 #         self.right = right
 from collections import deque
+
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
         res = []
-        queue = deque([root])
+        queue = deque([root]) # BFS uses a queue (FIFO)
+        
         while queue:
-            level = []
-            for _ in range(len(queue)):
+            level = [] # Holds current level's node values
+            
+            for _ in range(len(queue)): # Only process nodes of the current level
                 node = queue.popleft()
                 level.append(node.val)
+
+                # Add children for the next level
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            res.append(level)
+                    
+            res.append(level) # Add current level to result
         return res
