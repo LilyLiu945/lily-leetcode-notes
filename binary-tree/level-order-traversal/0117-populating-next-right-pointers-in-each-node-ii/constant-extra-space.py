@@ -12,10 +12,13 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
             return None
-        curr = root
+            
+        curr = root # Pointer to current level
         while curr:
-            dummy = Node(0)
-            tail = dummy
+            dummy = Node(0) # Dummy head for the next level
+            tail = dummy # Tail tracks the end of the next level
+
+            # Traverse the current level
             while curr:
                 if curr.left:
                     tail.next = curr.left
@@ -23,6 +26,8 @@ class Solution:
                 if curr.right:
                     tail.next = curr.right
                     tail = tail.next
-                curr = curr.next
-            curr = dummy.next
+                    
+                curr = curr.next # Move to next node in the same level
+            # Move down to the next level
+            curr = dummy.next # Start from the leftmost node of the next level
         return root
