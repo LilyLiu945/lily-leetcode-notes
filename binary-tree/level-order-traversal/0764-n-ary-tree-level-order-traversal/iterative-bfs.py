@@ -17,7 +17,8 @@ class Solution:
             for _ in range(len(queue)):
                 node = queue.popleft()
                 level.append(node.val)
-                for child in node.children:
+                # Ensure to iterate safely even if children is None
+                for child in (node.children or []):
                     queue.append(child)
             res.append(level)
         return res    
