@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0764-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
