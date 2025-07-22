@@ -17,3 +17,6 @@ class Solution:
             if node.left:
                 stack.append(node.left)
         return root
+
+# Preorder Traversal (root → left → right)
+# However, traversal order does not matter in this problem, since we only need to invert every node once
