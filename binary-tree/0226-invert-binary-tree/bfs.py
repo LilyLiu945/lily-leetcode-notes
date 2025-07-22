@@ -17,3 +17,7 @@ class Solution:
             if node.right:
                 queue.append(node.right)
         return root
+        
+# Swap left and right children before checking them:
+# If we check node.left/node.right first, it'd be using the pre-flip structure
+# By swapping first, we ensure the tree is already inverted before exploring the next level
