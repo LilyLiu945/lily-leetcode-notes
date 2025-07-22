@@ -15,7 +15,7 @@ class Solution:
             for _ in range(len(queue)):
                 node = queue.popleft()
                 if not node.left and not node.right:
-                    return depth
+                    return depth # "break" only exits one loop, and the function continues to execute without returning
                 if node.left:
                     queue.append(node.left)
                 if node.right:
