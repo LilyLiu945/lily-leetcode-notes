@@ -7,12 +7,14 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         
+        # Empty subtree is always a subtree
         if not root:
             return False
-        
+
         if self.isSameTree(root, subRoot):
             return True
-
+            
+        # Continue searching in left and right subtree
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
 
     def isSameTree(self, t1: Optional[TreeNode], t2: Optional[TreeNode]) -> bool:
