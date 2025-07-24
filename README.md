@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0459-repeated-substring-pattern) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0222-count-complete-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
