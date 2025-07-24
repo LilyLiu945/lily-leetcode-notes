@@ -11,7 +11,7 @@ class Solution:
         res = 0
         queue = deque([root])
         while queue:
-            node = queue.pop()
+            node = queue.popleft()
             if node.left and not node.left.left and not node.left.right:
                 res += node.left.val
             if node.left:
