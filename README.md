@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
