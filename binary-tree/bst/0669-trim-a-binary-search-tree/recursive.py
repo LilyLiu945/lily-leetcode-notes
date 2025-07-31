@@ -1,9 +1,7 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+# If current node < low, discard left subtree and recurse on right
+# If current node > high, discard right subtree and recurse on left
+# Otherwise, trim both sides and keep current node
+
 class Solution:
     def trimBST(self, root: Optional[TreeNode], low: int, high: int) -> Optional[TreeNode]:
         
