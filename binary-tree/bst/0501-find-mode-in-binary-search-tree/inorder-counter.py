@@ -1,9 +1,8 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+# prev: previous node value
+# cur_count: current value frequency
+# max_count: max frequency observed
+# modes: list of values with max frequency
+
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
 
