@@ -1,9 +1,13 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+# If key < root.val: recurse into left subtree
+# If key > root.val: recurse into right subtree
+# If key == root.val:
+#   - Case 1: No children or only right => return right
+#   - Case 2: Only left => return left
+#   - Case 3: Two children
+#     - Find inorder successor from right subtree (smallest node)
+#     - Replace current node’s value with successor
+#     - Delete successor from right subtree
+
 class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         
