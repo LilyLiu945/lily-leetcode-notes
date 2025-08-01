@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
