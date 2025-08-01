@@ -1,9 +1,8 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+# Recursively choose the middle element as the root to maintain balance
+# Build left subtree from left half
+# Build right subtree from right half
+# Stop recursion when left > right (no elements left)
+
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
         
