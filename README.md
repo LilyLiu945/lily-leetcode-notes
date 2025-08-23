@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0784-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
