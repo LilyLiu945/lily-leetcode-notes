@@ -1,6 +1,8 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         n = len(cost)
+        if n == 1:
+            return cost[0]
         dp = [0] * n
         dp[0] = cost[0]
         dp[1] = cost[1]
