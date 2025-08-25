@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
