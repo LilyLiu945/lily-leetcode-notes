@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0274-h-index) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
