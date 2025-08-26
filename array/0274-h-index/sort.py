@@ -1,3 +1,4 @@
+# （O(n log n)）
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
         citations.sort(reverse=True) # Descending order
