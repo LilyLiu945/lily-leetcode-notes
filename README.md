@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
