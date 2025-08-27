@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0069-sqrtx) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0206-reverse-linked-list) |
