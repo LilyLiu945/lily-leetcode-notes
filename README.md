@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0141-linked-list-cycle](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0203-remove-linked-list-elements) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
