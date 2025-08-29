@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0213-house-robber-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0290-word-pattern) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0383-ransom-note) |
 ## String Matching
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0654-maximum-binary-tree) |
 ## Bucket Sort
