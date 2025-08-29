@@ -6,4 +6,5 @@ class Solution:
             if count == 0:
                 candidate = x
             count += 1 if x == candidate else -1
+            # count = count + (1 if x == candidate else -1)
         return candidate
