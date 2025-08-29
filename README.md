@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0213-house-robber-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1013-fibonacci-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0344-reverse-string) |
