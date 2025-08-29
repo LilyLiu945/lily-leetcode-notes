@@ -6,6 +6,6 @@ class Solution:
         for ch in t:
             if s[i] == ch:
                 i += 1
-            if i == len(s):
-                return True
+                if i == len(s):
+                    return True
         return False
