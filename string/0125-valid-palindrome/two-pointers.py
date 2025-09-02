@@ -2,7 +2,7 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         i, j = 0, len(s) - 1
         while i < j:
-            while i < j and not s[i].isalnum():
+            while i < j and not s[i].isalnum(): # Used to check whether a string is composed entirely of letters and numbers.
                 i += 1
             while i < j and not s[j].isalnum():
                 j -= 1
