@@ -13,15 +13,15 @@ class Solution:
 
         rows = [""] * numRows
         row = 0          # current row index
-        dir = 1          # +1 going down, -1 going up
+        direction = 1    # +1 going down, -1 going up
 
         for ch in s:
             rows[row] += ch
             # Flip direction at the top/bottom row.
             if row == 0:
-                dir = 1
+                direction = 1
             elif row == numRows - 1:
-                dir = -1
-            row += dir
+                direction = -1
+            row += direction
 
         return "".join(rows)
