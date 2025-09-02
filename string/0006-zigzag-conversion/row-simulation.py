@@ -1,5 +1,11 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
+        """
+        Build the zigzag row by row while moving a pointer up and down.
+        Time:  O(n) — visit each char once
+        Space: O(n) — to store rows before joining
+        """
+        
         n = len(s)
         # Trivial cases: no zigzag needed.
         if numRows == 1 or numRows >= n:
