@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1094-car-pooling) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0059-spiral-matrix-ii) |
 | [0874-backspace-string-compare](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0874-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1094-car-pooling) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1019-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1094-car-pooling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0209-minimum-size-subarray-sum) |
+| [1094-car-pooling](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1094-car-pooling) |
 ## Matrix
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
