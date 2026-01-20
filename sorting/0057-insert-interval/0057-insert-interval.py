@@ -19,4 +19,8 @@ class Solution:
             ans.append(intervals[i])
             i += 1
 
-        return ans        
+        return ans  
+        
+# 1. Check index bounds (i < n) before accessing intervals[i].
+# 2. Expand newInterval first. Don't Append merged intervals multiple times.
+# 3. Once newInterval is finalized, all remaining intervals can be appended directly.
