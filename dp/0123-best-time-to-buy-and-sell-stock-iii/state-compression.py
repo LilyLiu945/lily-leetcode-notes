@@ -12,3 +12,6 @@ class Solution:
             sell2 = max(sell2, buy2 + p)
 
         return sell2
+
+# Each day's states depend only on the previous day's states.
+# Update each price to achieve O(n) time and O(1) space.
