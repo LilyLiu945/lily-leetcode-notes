@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LilyLiu945/lily-leetcode-notes/tree/master/0150-evaluate-reverse-polish-notation) |
