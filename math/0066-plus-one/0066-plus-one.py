@@ -7,4 +7,6 @@ class Solution:
                 return digits
         
             digits[i] = 0
+            
+        # all digits were 9
         return [1] + digits
